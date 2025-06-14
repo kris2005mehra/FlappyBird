@@ -28,6 +28,12 @@ A simple, responsive Flappy Bird game built with HTML5 Canvas and JavaScript. Pl
 
 
 ---
+## 💡 Live Site To Play This
+
+https://kris2005mehra.github.io/FlappyBird/
+
+---
+
 ## 🪄 Running the Game Locally
 
 1. Clone or download this repository
