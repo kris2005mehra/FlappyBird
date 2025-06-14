@@ -18,14 +18,16 @@ A simple, responsive Flappy Bird game built with HTML5 Canvas and JavaScript. Pl
 
 ---
 
-## ❓ How to Play
+## 📸 Screenshorts
 
-- **Desktop:** Press the **Spacebar** or click to make the bird flap
-- **Mobile:** Tap the large flap button or anywhere on the screen to flap
-- Try to avoid hitting the pipes or ground while passing through gaps for points
+<img width="876" alt="Screenshot 2025-06-15 at 3 05 21 AM" src="https://github.com/user-attachments/assets/f14e6914-ef5d-4dcf-936e-76846b362da0" />
+
+<img width="450" alt="Screenshot 2025-06-15 at 3 12 06 AM" src="https://github.com/user-attachments/assets/b823d8f4-2d62-477d-8c50-9ce393920535" />
+
+<img width="648" alt="Screenshot 2025-06-15 at 3 10 14 AM" src="https://github.com/user-attachments/assets/c9c10b11-3ac1-4234-8d82-4448a8a26348" />
+
 
 ---
-
 ## 🪄 Running the Game Locally
 
 1. Clone or download this repository
